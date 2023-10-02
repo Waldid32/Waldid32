@@ -1,12 +1,12 @@
 ### Hola 👋
 
-### 💻 Full Stack Developer Junior 💻
+### 💻 Full Stack Developer  💻
 
 ### 💬 Acerca de mí 💬
-Soy desarrollador web con 1 año de experiencia. Capaz de adaptarme a cambios, nuevos lenguajes de programación, trabajo bajo presión con cumplimiento de metas.
+Full Stack developer con 1 año de experiencia. Capaz de adaptarme a cambios, nuevos lenguajes de programación.
 
 ### ⚡ Habilidades de desarrollo ⚡ 
-React Js - TypeScript - JavaScript - PHP - CSS - Next JS - Express.
+JavaScript - Node Js - React JS - Next JS - Express JS - HTML - CSS (Framework) - Analisis te datos - Power BI
 
 ### 🛢 Habilidades de base de datos 🛢
 SQL Server, MariaDB, MySQL.
